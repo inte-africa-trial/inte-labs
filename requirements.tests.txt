@@ -1,0 +1,10 @@
+faker
+model-mommy
+edc-adverse-event
+edc-data-manager
+edc-randomization
+inte-ae
+inte-subject
+inte-lists
+inte-sites
+inte-visit-schedule
