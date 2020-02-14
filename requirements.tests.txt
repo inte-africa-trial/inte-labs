@@ -1,5 +1,5 @@
 faker
-model-mommy
+model-bakery
 edc-adverse-event
 edc-data-manager
 edc-randomization
